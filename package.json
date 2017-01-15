@@ -6,6 +6,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Ahmed Kotb"
-  
+  "author": "Ahmed Kotb",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
 }
